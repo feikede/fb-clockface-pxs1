@@ -10,3 +10,6 @@ Don't forget to connect your ionic watch to the same wifi as your dev pc:
 ![Ionic Watch connected](pxs1-screenshot.png)
 
 This is based on some fitbit examples and needs no licence, whatsoever, don't know.
+
+
+Remark: The svg canvas is 348x250 pixels in size.
