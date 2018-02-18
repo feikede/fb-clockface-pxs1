@@ -13,3 +13,8 @@ This is based on some fitbit examples and needs no licence, whatsoever, don't kn
 
 
 Remark: The svg canvas is 348x250 pixels in size.
+
+
+And this is my new branded watchface:
+
+![Ionic Watch proxiss branded](proxiss-branded.png)
