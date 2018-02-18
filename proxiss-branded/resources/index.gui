@@ -1,0 +1,11 @@
+<svg class="background">
+  <image id="brand-img" href="proxiss-bullet2.png" load="sync" />
+  <text id="brand">proxiss</text>
+  <text id="myDate">14</text>
+  <text id="myDateMonth">Feb</text>
+  <text id="myBpm">118</text>
+  <text id="myBpmLegend">bpm</text>
+  <text id="myLabel" />
+  <line x1="10" y1="50%+12" x2="100%-10" y2="50%+12" fill="lightblue" stroke-width="1" />
+  <line x1="50%" y1="50%+14" x2="50%" y2="100%-20" fill="lightblue" stroke-width="1" />
+</svg>

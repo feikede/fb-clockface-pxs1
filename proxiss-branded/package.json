@@ -1,0 +1,17 @@
+{
+  "fitbit": {
+    "appUUID": "dc4f0a00-24d8-4168-ad7b-898f5e3da03c",
+    "appType": "clockface",
+    "appDisplayName": "pxs1",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate"
+    ],
+    "i18n": {
+      "en": {
+        "name": "pxs1"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+.background {
+  viewport-fill: black;
+}
+
+#myLabel {
+  font-size: 80;
+  font-family: Colfax-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%-15;
+  fill: lightblue;
+}
+
+#myDate {
+  font-size: 50;
+  font-family: Colfax-Bold;
+  text-length: 20;
+  text-anchor: middle;
+  x: 25%;
+  y: 75%;
+  fill: khaki;
+}
+
+#myDateMonth {
+  font-size: 18;
+  font-family: Colfax-Regular;
+  text-length: 20;
+  text-anchor: middle;
+  x: 25%;
+  y: 84%;
+  fill: khaki;
+}
+
+#myBpm {
+  font-size: 40;
+  font-family: Colfax-Regular;
+  text-length: 20;
+  text-anchor: middle;
+  x: 75%;
+  y: 74%;
+  fill: khaki;
+}
+
+#myBpmLegend {
+  font-size: 18;
+  font-family: Colfax-Regular;
+  text-length: 20;
+  text-anchor: middle;
+  x: 75%;
+  y: 84%;
+  fill: khaki;
+}
+
+#brand-img {
+  x: 22%;
+  y: 0%;
+  width: 29;
+  height: 29;
+}
+
+#brand {
+  font-size: 20;
+  font-family: Colfax-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 22%+36;
+  y: 10%;
+  fill: white;
+}
