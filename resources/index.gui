@@ -1,0 +1,6 @@
+<svg class="background">
+  <text id="brand">proxiss</text>
+  <text id="myDate">dd/mm</text>
+  <text id="myBpm">-- bpm</text>
+  <text id="myLabel" />
+</svg>
